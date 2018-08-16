@@ -1,0 +1,23 @@
+{
+  "name": "piosenka",
+  "version": "1.0.0",
+  "description": "https://godziu.github.io/piosenka/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godziu/piosenka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godziu/piosenka/issues"
+  },
+  "homepage": "https://github.com/godziu/piosenka#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.6"
+  }
+}
