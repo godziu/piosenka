@@ -19,5 +19,9 @@
   "homepage": "https://github.com/godziu/piosenka#readme",
   "devDependencies": {
     "browser-sync": "^2.24.6"
+  },
+  "dependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "nu-html-checker": "^0.1.0"
   }
 }
